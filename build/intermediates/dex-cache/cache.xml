@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_ea6a157736eaa409737d32b296918fd0e034017c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_c7b62efd852eb1f47db5b96b81c4f097277d3aef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.0_8c827ae17622c41c3a7749e794f8001391da367f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c48db997d87eb3e3ad47713cfbfe7cb878a2e66c">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.6.0_d8d67c1c0452af4fd347358a65a97b51ce3a9346/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f2c9c986087e5862518757d0c988c8eac1a47bfd">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.6.0_ca93006e9c5ea623f05bc6ecd1a433b2b8d143d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="eb96a230c7b55d545fbdee45157a5a75b2b26284">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.6.0_0c52cfdf29669589df0121b742fad714a030642b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="938ba83fbb26987368049237e47718d56e91e222">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.6.0_fe1ec1c6c8952ef63e074296fbb77894c8b3cec9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_13190e5a59b5c192d72a3632125ff66cf78f73b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.6.0_0ba0b61a87a46950030792981be19422f7465933/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="53f7fbab5e6f4149eb5a1cdeabaeeeee11a84ebe">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.6.0_1f31c6a164fc9175d5ad9446e90c294bf93e9e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_75f88d631dc5025bd49644f90435dde7ca8818dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a93aa431de60b775c91158433f3c687f1d32cb9c">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.6.0_173391ae41a9ddacb1a20799b04c7977dee6aa2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_ab5b723f62588a5379008b8e370083a092753c50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bd11b3899f275668a9355f19cea2c2320f5f9d14">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.0_03f72b82a08fbc8f2a3da12694a972af8a84ecc8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4cfc5a74aa9453cbec685cdbcb3e3f3539b483bd">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.6.0_a6d9a8778df516d3b2dfdd4714630c3f379dc729/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="415336382149f2a79eb80599e340e188f6724d6d">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.6.0_50a14a00768bee55884828d245af801bcf91aa4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-awareness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26cd46f7bc6e1f269062b61269317a29329a9a7b">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-awareness-9.6.0_f2218b49578b8a149a6d14679d316f464c3e07c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea5537e2a88ce0497d3e2272b1cf93f2e0c77b0d">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.6.0_8bf3e598b56bd48e627d618963ec987e7dcf2eab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f4540ad2a6e3741694e9332f0c20607c780fae6c">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.6.0_2183dbe96640dac5a86c71d0970c344c2a525221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d39f676be8400123523882d189a1d84040d34339">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.0_75f0b5cb0fa4de2f4106c88b27216d35570dccac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="74d1712880eb2b4ab37ddf3c6a3232c883756726">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.0_af41a58703d271c5d02ff6ca9590e5ca2e7cdd31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3270d392adef5decc7bace1a3c2e749bec7bf19e">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.6.0_45332e84caa47336b1c3d54e9ad5d8872d445626/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-core/5.0/3382b8260646dd334a1b9c1b3d412fcb73d8b21/ormlite-core-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="03382b8260646dd334a1b9c1b3d412fcb73d8b21">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-core-5.0_2a4c67a0766c26baa20e800e9d3c993ec7625690/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6d16df2955bbd154b36819386cfd2e3b7f7cae5b">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.6.0_47942b1320660a5110a948deb42f2a9cc762efcf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="614b2ffd04818e865e1c02cc149c6b92e518e862">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.0_20a96cd54746e1b0fff35d6ccfa055950e340b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.0_c1ff5ca2c17913773cd9821e570a321b1fb490be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c1754a7d933cb5592eb26b15c7bc546d7852c80d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="84d858d48caac8a4c11b6a03e3dcf707dd68abd1">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_138d66529390802e14e85edef795582b3e8a3858/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_0802291b906d069e38cc4e5403b56a16510832ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_8db3eb90f4ab2a0b984317b84b9c803c305845b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a917154cf730ea6ec2495705309e6a4065cde2ac">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.6.0_be6bfb64388486cb6f2f1775352eff706ea8fcfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.6.0_d5e99f1a75f29e52316efb9338f8edf4cf7de126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.6.0_18cdc9a7d3e5df4f7d387f771ebaaff3549b8330/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="73699fb64ea3de4a43d0f5c37dc525a5e1341ca1">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.6.0_3d611e348561631841b632a53af51de64faec4b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6079f942bb34faee179b4c46396a26fbbfc43e5d">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.6.0_04ab5511c3670d228a083015bb266c4f8395640f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a9f41e6463de88c3f979d796382fc24fb7e9cd41">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.0_c6f8457c0145c954459741e3bd7a681a10d8c203/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_a51faf0756391abd4e76c4ef33374df3cd890d00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_52d8254ca0be511cead6eda1a779e3de5a8ea2a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a5da6fc5a6f39aee309ae6ae670e1b942759dc51">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.6.0_49219effded86101e30788bacd129b80e018b71a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_97bb4af95701d6f3e7f8128a7868f11b716ed20c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7357a05eea2a049c33488c7e8c6f887b3483d4b8">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.6.0_231326b3f914ec72954f5af7d98eaa2067c1e9d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f5c557145ddef094005eb73d72a7eaf330a0cf1">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.6.0_f5e0bb0470b3024f63bbc6d891512f4c36630e4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_41867ce4eff38b14f7e316b14e80cabc177b147b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9ac3b0479166e993b55ecd87a32f7260e445821e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_28f3d2d46b996ed3f50ab1f3f932877e2422a123/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ce5313bb5ccc0c1e10c995e4efb2f2b08c848b39">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.6.0_535d429a8a655083c3930010945ad687f4ad1f78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-24.0.0_5881d7112c223d75904f6a6072d35fe28dcd5783/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_f708374a8c598979298596847e19e71a7b4d18a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f6afcfbf1989631424f9ceaae6ee24777d3cf6ba">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.0_add2864bcfd21697899e98d8e06c468fa38872cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.6.0_e5a721505492a32fb15499ab310c75f09aaa034e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4ab00b7d310cfdfff3a9446554485647153d0792">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.6.0_b3c7d3ec2b9da4ad5ef3beacadbb6e20444eb174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a723c85825d9591baec200523c10662e30c8bed7">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.6.0_27e1713669cd24dd9e63c86486ce2b6050b988f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="300e72616fdf265bb36bff7adb1ebec7b1d72817">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.6.0_d1dbdcb6c25dd9b3d04307541e2e21a53c9755e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="266e4ac186afacc3b220a0cf8382348283b42407">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.6.0_d37bd9b6ebb83c61aafe380cf889e724df572532/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d1e7862a5a7675940acb6efcab34b38de89c9e18">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.6.0_d6941dfe5825d550b6a327c049dcf7b8b7952231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f03b3027d5d1d64a6bc6e26ee24d7327bfa291a">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0e2487426669f77cc8532ee4e32fe0d49cbc900f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="97e3259dcdaa9b33014a849f6d3bdbb4ef478383">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.6.0_96d4d35b038a090bfc7f552d3dc3f2ea4e84baeb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43ab9b69758a0f22706629223c367e9bd478e1a8">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.6.0_eb8840d6cccd6cdd60e7cbda0921607f75f389bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d57767271a9c140da143ec0db9a0673b6d96eccb">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.6.0_d19da7762cfd176f7c899d39b68d0fcdc3f7e7e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_b606f2287976dc1b6fa78cda8510eeb5423b6e88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.6.0_a7c1d2ffb9bd63f716a7e335970b5929667b5725/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.6.0_844ded7f17bbcc0e287b3e05b3c87a6760de9464/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf803332f826adea247cc452d0bb04d7943f0007">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.6.0_e695737e47fc6b745b94a870685dc4c3b3355c07/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1bf2ceb0034efe20249a561096f6e288cce7a0a4">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.6.0_7894e20aa071f9b299b01bef624af8850e21be42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-instantapps/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5fef4ad8c5b2519596b80a241d56b69dffcd6845">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-instantapps-9.6.0_2a32f9e99777a9bb1d393713228d3b4b27ec05f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.6.0_d89c8092f2881304934a68416e94eb1e671f8055/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.6.0_042f37ca40a5288c45f69ca414ad702d2cec3ee0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_b71a033c3f2666f1139a0d2139c81dafc8c952c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/.gradle/caches/modules-2/files-2.1/com.j256.ormlite/ormlite-android/5.0/1f065373aeef355dd9e2fd9854efd5ed4d54f6d/ormlite-android-5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="01f065373aeef355dd9e2fd9854efd5ed4d54f6d">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/ormlite-android-5.0_29c2ab4248cba5c70dd6eb61593ffa64086f4e4f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ba2f029ff37297295d2d197ac6e957b361bfccaf">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.6.0_e91b8e541764224df0dc489844bbf6e6719b4df7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e57976670fbacdf978a17512deec324c4b1c0bc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.6.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="12e94600a0ea3beae6ea0f1d18a0768ded5bc1ae">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.6.0_a9bf0ab65a0e9d683ea86f4e4dc6b08a1b743894/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/dam/Desktop/MapasMiguel/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_ebb27dcf534abf09924273903ff431a1b051daa4/classes.dex" />
+    </item>
+
+</items>
